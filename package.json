@@ -1,0 +1,32 @@
+{
+  "name": "postcss-magic-animations",
+  "version": "0.0.0",
+  "description": "PostCSS plugin that add keyframes from Magic animations",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "animation"
+  ],
+  "author": "Julia <julia@nitsnets.com>",
+  "license": "MIT",
+  "repository": "JuliaMB/postcss-magic-animations",
+  "bugs": {
+    "url": "https://github.com/JuliaMB/postcss-magic-animations/issues"
+  },
+  "homepage": "https://github.com/JuliaMB/postcss-magic-animations",
+  "dependencies": {
+    "postcss": "^5.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "eslint": "^3.4.0",
+    "eslint-config-postcss": "^2.0.2"
+  },
+  "scripts": {
+    "test": "ava && eslint *.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-postcss/es5"
+  }
+}
