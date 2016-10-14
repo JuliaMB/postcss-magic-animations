@@ -1,6 +1,6 @@
 # PostCSS Magic Animations [![Build Status][ci-img]][ci]
 
-[PostCSS] plugin that add keyframes[D[D[D[C[Cfrom Magic animations.
+[PostCSS] plugin that add keyframes from Magic animations.
 
 [PostCSS]: https://github.com/postcss/postcss
 [ci-img]:  https://travis-ci.org/JuliaMB/postcss-magic-animations.svg
