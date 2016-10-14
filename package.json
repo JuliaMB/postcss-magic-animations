@@ -19,14 +19,9 @@
     "postcss": "^5.2.0"
   },
   "devDependencies": {
-    "ava": "^0.16.0",
-    "eslint": "^3.4.0",
-    "eslint-config-postcss": "^2.0.2"
+    "ava": "^0.16.0"
   },
   "scripts": {
-    "test": "ava && eslint *.js"
-  },
-  "eslintConfig": {
-    "extends": "eslint-config-postcss/es5"
+    "test": "ava"
   }
 }
