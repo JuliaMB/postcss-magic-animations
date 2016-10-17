@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/JuliaMB/postcss-magic-animations",
   "dependencies": {
-    "postcss": "^5.2.0"
+    "postcss": "^5.2.0",
+    "postcss-magic-animations-data": "^1.0.0"
   },
   "devDependencies": {
     "ava": "^0.16.0"
